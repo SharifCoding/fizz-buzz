@@ -1,0 +1,20 @@
+body{
+  padding-top: 20px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#enter, #submit{
+  border: none;
+  height: 50px;
+  font-size: 1.2em;
+}
+
+#submit{
+  width: 100px;
+  background-color: #E8116B;
+  border-radius: 100px;
+  color: white;
+}
